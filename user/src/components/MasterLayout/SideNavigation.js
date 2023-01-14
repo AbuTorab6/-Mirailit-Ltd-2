@@ -10,7 +10,7 @@ import { RiDashboardLine } from "react-icons/ri";
 import { BsListNested,BsHourglass } from "react-icons/bs";
 import { MdOutlineCancelPresentation } from "react-icons/md";
 
-import myPic from '../../asset/image/jubo.jpg'
+
 import sideNavLogo from '../../asset/image/sideNavLogo.png'
 
 const SideNavigation = (props) => 
